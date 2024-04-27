@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trash/static/css/main.83916e03.css",
+    "main.js": "/trash/static/js/main.e2243583.js",
+    "index.html": "/trash/index.html",
+    "main.83916e03.css.map": "/trash/static/css/main.83916e03.css.map",
+    "main.e2243583.js.map": "/trash/static/js/main.e2243583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83916e03.css",
+    "static/js/main.e2243583.js"
+  ]
+}
